@@ -1,0 +1,562 @@
+[
+  {
+    "name": "Cryptodogs #0",
+    "description": "It's the best metadog in metaverse.",
+    "image": "https://ipfs.io/ipfs/bafybeify4odxvxyima3v3u6pbjd3qpmfs4wriyyj4pwnztaczhnvsmdw5u",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background16"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Blue6"
+      },
+      {
+        "trait_type": "Glass",
+        "value": "Red1"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Mouse7"
+      }
+    ],
+    "dna": "1a89c302952f14137ebcb243fbde52aa85b924f2",
+    "edition": 0,
+    "external_url": "https://cryptodogs.xyz",
+    "date": 1648305971908,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  {
+    "name": "Cryptodogs #1",
+    "description": "It's the best metadog in metaverse.",
+    "image": "https://ipfs.io/ipfs/bafybeihuryjsdjeubq7obyc3jwv6soxbnduhjwp3n5fmxo7u7tz5qmkduq",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background15"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green2"
+      },
+      {
+        "trait_type": "Glass",
+        "value": "Red3"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Mouse7"
+      }
+    ],
+    "dna": "f264adb8ac520763bb7d83c34c0102707c4ff081",
+    "edition": 1,
+    "external_url": "https://cryptodogs.xyz",
+    "date": 1648305968351,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  {
+    "name": "Cryptodogs #2",
+    "description": "It's the best metadog in metaverse.",
+    "image": "https://ipfs.io/ipfs/bafybeigk3srnh3ugm55xjop5xp5s6ow3ekhehjfavpnm2klaepqwzmy6bu",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background16"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Blue3"
+      },
+      {
+        "trait_type": "Glass",
+        "value": "Red2"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Mouse1"
+      }
+    ],
+    "dna": "7679180ec7d26cb02192ddc1244681da88a18494",
+    "edition": 2,
+    "external_url": "https://cryptodogs.xyz",
+    "date": 1648305962739,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  {
+    "name": "Cryptodogs #3",
+    "description": "It's the best metadog in metaverse.",
+    "image": "https://ipfs.io/ipfs/bafybeicbbque6atnytgg33r7qmykicl3k3db6bnnrz55rckpdmf3xwnd7m",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background10"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Purple4"
+      },
+      {
+        "trait_type": "Glass",
+        "value": "Red5"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Mouse6"
+      }
+    ],
+    "dna": "c9344b8654d8c01769d14c83d65c5b6ed331370f",
+    "edition": 3,
+    "external_url": "https://cryptodogs.xyz",
+    "date": 1648305964894,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  {
+    "name": "Cryptodogs #4",
+    "description": "It's the best metadog in metaverse.",
+    "image": "https://ipfs.io/ipfs/bafybeiaoxqsxexmhruelo5agiza6uga2fypu7ttoaw5mffgemzsyvczn5u",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background4"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green2"
+      },
+      {
+        "trait_type": "Glass",
+        "value": "Red3"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Mouse3"
+      }
+    ],
+    "dna": "b9c4f451ca55c9a918033b0e226fec905dec098b",
+    "edition": 4,
+    "external_url": "https://cryptodogs.xyz",
+    "date": 1648305966225,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  {
+    "name": "Cryptodogs #5",
+    "description": "It's the best metadog in metaverse.",
+    "image": "https://ipfs.io/ipfs/bafybeibaxqdlzvdrklercv24voaqctvjarxetcwp3tl6gk64vgywlzg3s4",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background12"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Orange1"
+      },
+      {
+        "trait_type": "Glass",
+        "value": "Green2"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Mouse2"
+      }
+    ],
+    "dna": "f1c079d19a9a3e6d246c58990a6a2c1491abaee9",
+    "edition": 5,
+    "external_url": "https://cryptodogs.xyz",
+    "date": 1648305962050,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  {
+    "name": "Cryptodogs #6",
+    "description": "It's the best metadog in metaverse.",
+    "image": "https://ipfs.io/ipfs/bafybeicracckdqwh2k6ap2fsyjgno4c2gy64g4fjl22rwynidss3txuv54",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background13"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Yellow2"
+      },
+      {
+        "trait_type": "Glass",
+        "value": "Red1"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Mouse5"
+      }
+    ],
+    "dna": "4b86594dab8b23417b1001b978341cb1b41b7bd9",
+    "edition": 6,
+    "external_url": "https://cryptodogs.xyz",
+    "date": 1648305970467,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  {
+    "name": "Cryptodogs #7",
+    "description": "It's the best metadog in metaverse.",
+    "image": "https://ipfs.io/ipfs/bafybeib5ku5gevxnozea5lxdlgjxbbysm22siqhctchz23wy5ntnjgxz54",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background5"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Blue1"
+      },
+      {
+        "trait_type": "Glass",
+        "value": "Yellow1"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Mouse3"
+      }
+    ],
+    "dna": "6bec9d7e8a25cd8d7bfdd5a500e338fc1c9b04ce",
+    "edition": 7,
+    "external_url": "https://cryptodogs.xyz",
+    "date": 1648305969728,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  {
+    "name": "Cryptodogs #8",
+    "description": "It's the best metadog in metaverse.",
+    "image": "https://ipfs.io/ipfs/bafybeic35bu5in2c7cohwbmuxo4s2tlh5d6jp2kcntsl35hm2c4lnaf6g4",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background7"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Orange1"
+      },
+      {
+        "trait_type": "Glass",
+        "value": "Red4"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Mouse6"
+      }
+    ],
+    "dna": "ac82967cf0cfc376167122cf57f60095e903e6e0",
+    "edition": 8,
+    "external_url": "https://cryptodogs.xyz",
+    "date": 1648305967684,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  {
+    "name": "Cryptodogs #9",
+    "description": "It's the best metadog in metaverse.",
+    "image": "https://ipfs.io/ipfs/bafybeiay4j6qmu4zojsnf4ynxxtcxurkegsf7di4q7fpui6kum5phhbyea",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background16"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Orange1"
+      },
+      {
+        "trait_type": "Glass",
+        "value": "Green4"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Mouse6"
+      }
+    ],
+    "dna": "359a1c1f2d7f60e71b05ed3659f9abb66d086457",
+    "edition": 9,
+    "external_url": "https://cryptodogs.xyz",
+    "date": 1648305965527,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  {
+    "name": "Cryptodogs #10",
+    "description": "It's the best metadog in metaverse.",
+    "image": "https://ipfs.io/ipfs/bafybeib7f3yrhxcfwk3ogmownqawhmgl42roesgrfeqdnu3ql6mhfz6rii",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background10"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Orange5"
+      },
+      {
+        "trait_type": "Glass",
+        "value": "Blue3"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Mouse3"
+      }
+    ],
+    "dna": "627e1ebf1361ddb99636fa569158970a7ebd96ed",
+    "edition": 10,
+    "external_url": "https://cryptodogs.xyz",
+    "date": 1648305966945,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  {
+    "name": "Cryptodogs #11",
+    "description": "It's the best metadog in metaverse.",
+    "image": "https://ipfs.io/ipfs/bafybeiei45i7vkq4lg3fmfvchjew5zftajfc2bxchkw3bplj4ezmmyjv3m",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background13"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Blue3"
+      },
+      {
+        "trait_type": "Glass",
+        "value": "Blue1"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Mouse3"
+      }
+    ],
+    "dna": "aa105026dc3131242920798ff87b837b752bea7e",
+    "edition": 11,
+    "external_url": "https://cryptodogs.xyz",
+    "date": 1648305960364,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  {
+    "name": "Cryptodogs #12",
+    "description": "It's the best metadog in metaverse.",
+    "image": "https://ipfs.io/ipfs/bafybeidfjqddwnpzripgaq7i7fzqclotwjhiiclrdi2gi5v7tobxogycya",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background8"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Yellow1"
+      },
+      {
+        "trait_type": "Glass",
+        "value": "Purple1"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Mouse5"
+      }
+    ],
+    "dna": "dd9f92ac9f23802c14a714c528eaa537b525c9f8",
+    "edition": 12,
+    "external_url": "https://cryptodogs.xyz",
+    "date": 1648305959629,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  {
+    "name": "Cryptodogs #14",
+    "description": "It's the best metadog in metaverse.",
+    "image": "https://ipfs.io/ipfs/bafybeibhydbb3w7y4x2aronvxak56wtqgylpoipszd3txca2baqtt2dbmu",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background16"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Blue3"
+      },
+      {
+        "trait_type": "Glass",
+        "value": "Blue4"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Mouse1"
+      }
+    ],
+    "dna": "3e809b6f7b5517e74c8550972218082faccb3f19",
+    "edition": 14,
+    "external_url": "https://cryptodogs.xyz",
+    "date": 1648305968967,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  {
+    "name": "Cryptodogs #15",
+    "description": "It's the best metadog in metaverse.",
+    "image": "https://ipfs.io/ipfs/bafybeidw4jsbt4htytm7eak4zgjsgcz54uh6anpksbfrvngk7yv2v5eet4",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background10"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Purple3"
+      },
+      {
+        "trait_type": "Glass",
+        "value": "Green3"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Mouse1"
+      }
+    ],
+    "dna": "3a10c53078cec1bef418c69facb9dc021cea7ed9",
+    "edition": 15,
+    "external_url": "https://cryptodogs.xyz",
+    "date": 1648305957970,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  {
+    "name": "Cryptodogs #16",
+    "description": "It's the best metadog in metaverse.",
+    "image": "https://ipfs.io/ipfs/bafybeiewkzhahukbtlvsvhhxrclpwniab537zo2kejebuupmbikj4clpoq",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background5"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Purple6"
+      },
+      {
+        "trait_type": "Glass",
+        "value": "Blue4"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Mouse1"
+      }
+    ],
+    "dna": "7a302485014e8679226722656c2c4d9e441e2912",
+    "edition": 16,
+    "external_url": "https://cryptodogs.xyz",
+    "date": 1648305961253,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  {
+    "name": "Cryptodogs #17",
+    "description": "It's the best metadog in metaverse.",
+    "image": "https://ipfs.io/ipfs/bafybeics6ifufj5wui3hqjvxvwioids3t7cqei7rltcrll4fcvafi433su",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background4"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Blue3"
+      },
+      {
+        "trait_type": "Glass",
+        "value": "Red2"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Mouse5"
+      }
+    ],
+    "dna": "e29c7f9296137199820c0685aa4cb2e857ca5521",
+    "edition": 17,
+    "external_url": "https://cryptodogs.xyz",
+    "date": 1648305958844,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  {
+    "name": "Cryptodogs #18",
+    "description": "It's the best metadog in metaverse.",
+    "image": "https://ipfs.io/ipfs/bafybeidj5k7fxz552anfalyndcmoyhzt43e3sufxex33aezaqcbceljvtu",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background15"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Yellow1"
+      },
+      {
+        "trait_type": "Glass",
+        "value": "Blue3"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Mouse7"
+      }
+    ],
+    "dna": "f933271a1e1a981fb34ddf8a034fd6b9bee196d8",
+    "edition": 18,
+    "external_url": "https://cryptodogs.xyz",
+    "date": 1648305963396,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  {
+    "name": "Cryptodogs #19",
+    "description": "It's the best metadog in metaverse.",
+    "image": "https://ipfs.io/ipfs/bafybeifokovmhbyydngq4w7xtsipr5oin7hdm3vwwsdi2zmojbaozploey",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background3"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Purple3"
+      },
+      {
+        "trait_type": "Glass",
+        "value": "Yellow1"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Mouse7"
+      }
+    ],
+    "dna": "f91535a04bd79aae940525a1ce24e2b3836de40b",
+    "edition": 19,
+    "external_url": "https://cryptodogs.xyz",
+    "date": 1648305964120,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  {
+    "name": "Cryptodogs #20",
+    "description": "It's the best metadog in metaverse.",
+    "image": "https://ipfs.io/ipfs/bafybeibsfg65rtxr5mnxgqefcnprv6gg5va3zlxxobpq2e44cm42jw2bwa",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Background5"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Green1"
+      },
+      {
+        "trait_type": "Glass",
+        "value": "Purple4"
+      },
+      {
+        "trait_type": "Mouse",
+        "value": "Mouse3"
+      }
+    ],
+    "dna": "fa2bc95facc8ba24682ce23f9891949aa1fd7f96",
+    "edition": 20,
+    "external_url": "https://cryptodogs.xyz",
+    "date": 1648305971176,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "name": "Cryptodogs #19",
+  "description": "It's the best metadog in metaverse.",
+  "image": "https://ipfs.io/ipfs/bafybeifokovmhbyydngq4w7xtsipr5oin7hdm3vwwsdi2zmojbaozploey",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background3"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Purple3"
+    },
+    {
+      "trait_type": "Glass",
+      "value": "Yellow1"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Mouse7"
+    }
+  ],
+  "dna": "f91535a04bd79aae940525a1ce24e2b3836de40b",
+  "edition": 19,
+  "external_url": "https://cryptodogs.xyz",
+  "date": 1648305964120,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}

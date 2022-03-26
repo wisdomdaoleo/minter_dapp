@@ -1,0 +1,15 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreigwekkq5sy7uvfvegm2wrrhkpe77xpct5gse4qpigkrp6cmzofmey",
+  "name": "Cryptodogs",
+  "description": "Which dog will you get?",
+  "file_url": "https://ipfs.io/ipfs/bafybeifgv244qrmvnqyub6i3vagi4hyqmbz5jlmbkwijxrjndihhtpdxy4",
+  "external_url": "https://cryptodogs.xyz",
+  "animation_url": null,
+  "custom_fields": {
+    "date": 1647039293429,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  "attributes": null,
+  "error": null
+}
